@@ -18,6 +18,11 @@
 			<name>Jacob Robertson</name>
 			<email>jacob.robertson.work@gmail.com</email>
 		</developer>
+		<developer>
+			<id>mn1222</id>
+			<name>Marc Naujoks</name>
+			<email>naujoks.marc@gmail.com</email>
+		</developer>		
 	</developers>
 
 	<dependencies>
